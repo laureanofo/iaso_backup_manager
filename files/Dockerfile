@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12.11
 MAINTAINER Laureano Fernandez <laureano.fernandez@nitelmursoftware.es>
 
 ENV DEVICE name
